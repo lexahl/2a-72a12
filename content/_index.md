@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: pebeThis Is A Big Hero Headline
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
@@ -84,6 +84,24 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
+      - author: Jonquil Von Haggerston
+        avatar: images/review3.jpg
+        avatar_alt: Jonquil Von Haggerston's photo
+        content: >-
+          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      - author: Jonquil Von Haggerston
+        avatar: images/review3.jpg
+        avatar_alt: Jonquil Von Haggerston's photo
+        content: >-
+          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      - author: Jonquil Von Haggerston
+        avatar: images/review3.jpg
+        avatar_alt: Jonquil Von Haggerston's photo
+        content: >-
+          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
