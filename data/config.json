@@ -130,7 +130,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; 2A Industrial Supply 2021. site put together by <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Honey I'm Online!</a>."
+        "content": "&copy; 2A Industrial Supply 2021. site put together by <a href=\"https:/\" target=\"_blank\" rel=\"noopener\">Honey I'm Online!</a>."
     },
     "domain": "https://2a-72a12.netlify.app"
 }
