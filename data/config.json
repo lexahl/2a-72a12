@@ -3,7 +3,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/0.jpg",
+        "logo_img": "images/rainy-pineapple.jpg",
         "logo_img_alt": "2A Industrial Supply",
         "has_nav": true,
         "nav_links": [
