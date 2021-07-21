@@ -86,7 +86,7 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
       - author: SOPORTE TÉCNICO INMEDIATO
-        avatar: images/smart-petunia.png
+        avatar: images/noun_Repair_1285380.png
         avatar_alt: Soporte técnico inmediato
         content: >-
           Realizamos mantenimientos periodicos y preventivos para evitar fallos;
