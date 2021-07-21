@@ -9,7 +9,6 @@ sections:
     pricing_plans:
       - title: Contactanos
         subtitle: For small businesses
-        price: $5/
         details: >
           El primer paso es sólo contactarnos y compartirnos que es lo que
           buscas y las necesidades que te gustarían satisfacer. Posteriormente
