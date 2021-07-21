@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: ¡Consigue una maquina para tu negocio GRÁTIS!
+    title: ¡Consigue una máquina para tu negocio GRÁTIS!
     content: >
       ¡Conseguir una máquina expendedora para tus instalaciones nunca fue tan
       fácil! Solamente tienes que contactarnos, y nosotros nos encargamos de lo
