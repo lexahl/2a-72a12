@@ -48,7 +48,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: ¿Qué costo tiene una máquina expendedora
+      - question: ¿Qué costo tiene una máquina expendedora en mis instalaciones?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
