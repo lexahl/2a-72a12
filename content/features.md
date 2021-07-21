@@ -6,18 +6,48 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    title: Nuestras Máquinas
+    content: >
+      Contamos con la más alta tecnología en equipos para satisfacer todas tus
+      necesidades.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      ##### Venta Garantizada
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Todos nuestros equipos manejan un sistema de sensores que garantizan la
+      entrega y eliminan los atascos.
+
+
+      ##### Ahorro de Energía
+
+
+      Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
+
+
+      ##### Control de Temperatura
+
+
+      ##### Soporte Técnico Inmediato
+
+
+      Realizamos mantenimientos periódicos y preventivos para evitar fallos;
+      pero además en caso de alguno contamos con stock de refecciones y técnicos
+      especializados para la atención inmediata.
+
+
+      ##### Formas de Pago
+
+
+      Para comodidad del cliente todos nuestros productos aceptan monedas y
+      billetes; con la posibilidad de otros tipos de pago.
+
+
+      ##### Gran Variedad de Productos
+
+
+      Nuestras máquinas están diseñadas para contar con una variedad de más de
+      50 selecciones diferentes.
 
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor

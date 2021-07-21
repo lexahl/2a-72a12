@@ -5,43 +5,39 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: pebeThis Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    title: ¡Consigue una máquina para tu negocio GRÁTIS!
+    content: >
+      ¡Conseguir una máquina expendedora para tus instalaciones, nunca fue tan
+      fácil! Solamente tienes que contactarnos, y nosotros nos encargamos de lo
+      demás.
     actions:
-      - label: Learn More
+      - label: Contacto
         url: /features
         style: primary
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Ventajas
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Al contar con el servicio de 2A Vending, le estas dando a tus
+      colaboradores un servicio confiable y de calidad.
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
+      - title: Selección de productos personalizable
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Awesome Feature of Your Services
+        content: >
+          Aceptamos todas sugerencias y comentarios. Contamos con una amplia
+          variedad de productos saludables, snacks, y bebidas porque nuestra
+          misión es proveerte con una experiencia que es completamente
+          satisfactoria para las necesidades de tus clientes y empleados.
+        actions: []
+        image: images/feature1.png
+      - title: El mejor servicio y atención
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          2A Vending ofrece un servicio de atención único, que incluye la
+          instalación de máquinas, surtido y abastecimiento de los productos, y
+          servicio técnico especializado. ¡Completamente gratuito!
         actions:
           - label: Learn More
             url: /features
@@ -49,13 +45,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
+          para que te demos la propuesta más adecuada para ti y programar la
+          instalación gratis de tus maquinas vending.
         actions:
           - label: Learn More
             url: /features
@@ -63,57 +58,55 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        title: Instalación gratuita
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Nuestros Equipos
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Contamos con la más alta tecnología en equipos para satisfacer todas tus
+      necesidades.
     reviews:
-      - author: Eric Widget
+      - author: VENTA GARANTIZADA
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
+          Todos nuestros equipos manejan un sistema de sensores que garantizan
+          la entrega y eliminan los atascos.
+      - author: AHORRO DE ENERGÍA
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
+        content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
+      - author: CONTROL DE TEMPERATURA
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - author: Jonquil Von Haggerston
+      - author: SOPORTE TÉCNICO INMEDIATO
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - author: Jonquil Von Haggerston
+          Realizamos mantenimientos periodicos y preventivos para evitar fallos;
+          pero además en caso de alguno contamos con stock de refecciones y
+          técnicos especializados para la atención inmediata.
+      - author: FORMAS DE PAGO
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - author: Jonquil Von Haggerston
+          Para comodidad del cliente todos nuestros productos aceptan monedas y
+          billetes; con la posibilidad de otros tipos de pago.
+      - author: GRAN VARIEDAD DE PRODUCTOS
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Nuestras máquinas están diseñadas para contar con una variedad de más
+          de 50 selecciones diferentes.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Consigue tu máquina vending aquí
     actions:
-      - label: Get Started
+      - label: Quiero mi máquina
         url: /signup
         style: primary
   - section_id: recent-posts

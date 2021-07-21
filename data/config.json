@@ -13,12 +13,12 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "Nuestras Máquinas",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Quiero una Máquina",
                 "url": "/pricing",
                 "style": "link"
             },
@@ -50,11 +50,6 @@
                     {
                         "label": "About Us",
                         "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Blog",
-                        "url": "/blog",
                         "style": "link"
                     },
                     {
@@ -130,7 +125,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; 2A Industrial Supply, 2021."
     },
-    "domain": "https://2a-72a12.netlify.app"
+    "domain": "https://vending2a.netlify.app"
 }
