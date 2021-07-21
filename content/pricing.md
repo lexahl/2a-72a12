@@ -61,7 +61,7 @@ sections:
           periódicamente para siempre estén funcionado para ti. Siempre
           realizamos esto en horarios y formas que no interrumpan tus
           operaciones.
-      - question: ¿Qué requisitos necesito en mi?
+      - question: ¿Qué requisitos necesito?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
