@@ -94,7 +94,7 @@ sections:
           técnicos especializados para la atención inmediata.
       - author: FORMAS DE PAGO
         avatar: images/noun_voucher_4052195.png
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Formas de Page
         content: >-
           Para comodidad del cliente todos nuestros productos aceptan monedas y
           billetes; con la posibilidad de otros tipos de pago.
