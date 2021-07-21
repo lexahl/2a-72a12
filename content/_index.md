@@ -78,7 +78,7 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
       - author: CONTROL DE TEMPERATURA
-        avatar: images/review3.jpg
+        avatar: images/noun_Thermometer_4079928.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
