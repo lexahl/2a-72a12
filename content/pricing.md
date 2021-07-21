@@ -30,7 +30,7 @@ sections:
             url: /signup
             style: primary
       - title: Disfruta
-        subtitle: For very large businesses
+        subtitle: Despreocupate y sólo disfruta los beneficios
         details: >+
           Una vez que tomes tu decisión, es sólo cuestión de agendar y planear
           la instalación gratuita y que disfrutes.
