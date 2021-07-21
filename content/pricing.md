@@ -22,10 +22,7 @@ sections:
           máquinas más optimo para tus necesidades y características.  Con está
           información es sólo cuestión de que tomes tu decisión.
         highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-            style: primary
+        actions: []
       - title: Disfruta
         subtitle: Despreocupate y sólo disfruta los beneficios
         details: >+
