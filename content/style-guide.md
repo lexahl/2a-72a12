@@ -29,31 +29,25 @@ subtitle: >-
 
 Nuestro servicio especializdo y de atención, siempre te dará un surtido y abastecimiento de los equipos oportuno para que siempre tengas el mejor servicio.
 
-# Venta garantizada
+### Venta Garantizada
 
 Todos nuestros equipos manejan un sistema de sensores que garantizan la entrega y eliminan los atascos.
 
-# Ahorro de Energía
+### Ahorro de Energía
 
 Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
 
-# Soporte Técnico Inmediato
+### Soporte Técnico Inmediato
 
 Realizamos mantenimientos periodicos y preventivos para evitar fallos; pero además en caso de alguno contamos con stock de refecciones y técnicos especializados para la atención inmediata.
 
-# Formas de Pago
+### Formas de Pago
 
 Para comodidad del cliente todos nuestros productos aceptan monedas y billetes; con la posibilidad de otros tipos de pago.
 
-## Quoting
+### Gran Variedad de Productos
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-> “Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
-
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu.
-
-<hr />
+Nuestras máquinas están diseñadas para contar con una variedad de más de 50 selecciones diferentes.
 
 ## Unordered Lists
 
