@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: ¡Consigue una maquina vending GRÁTIS!
+    title: ¡Consigue una maquina para tu negocio GRÁTIS!
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
