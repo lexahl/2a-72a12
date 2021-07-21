@@ -31,7 +31,6 @@ sections:
             style: primary
       - title: Disfruta
         subtitle: For very large businesses
-        price: $149/m
         details: >+
           Una vez que tomes tu decisión, es sólo cuestión de agendar y planear
           la instalación gratuita y que disfrutes.
