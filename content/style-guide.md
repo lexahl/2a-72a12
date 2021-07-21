@@ -27,23 +27,23 @@ subtitle: >-
 ---
 2A Vending te ofrece el servicio de máquinas vending con los productos líderes, perfectas para satisfacer todas tus necesidades.
 
-Nuestro servicio especializdo y de atención, siempre te dará un surtido y abastecimiento de los equipos oportuno para que siempre tengas el mejor servicio. 
+Nuestro servicio especializdo y de atención, siempre te dará un surtido y abastecimiento de los equipos oportuno para que siempre tengas el mejor servicio.
 
-# This is an H1
+# Venta garantizada
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+Todos nuestros equipos manejan un sistema de sensores que garantizan la entrega y eliminan los atascos.
 
-## This is an H2
+# Ahorro de Energía
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
 
-### This is an H3
+# Soporte Técnico Inmediato
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+Realizamos mantenimientos periodicos y preventivos para evitar fallos; pero además en caso de alguno contamos con stock de refecciones y técnicos especializados para la atención inmediata.
 
-#### This is an H4
+# Formas de Pago
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+Para comodidad del cliente todos nuestros productos aceptan monedas y billetes; con la posibilidad de otros tipos de pago.
 
 ## Quoting
 
