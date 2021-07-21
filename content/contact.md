@@ -7,7 +7,7 @@ sections:
     title: Contact
     content: >
       ¡Queremos ayudarte! Proporcionanos tus datos y nos contactaremos contigo
-      lo más pronto posible
+      lo más pronto posible.
     form_id: contactForm
     form_fields:
       - input_type: text
