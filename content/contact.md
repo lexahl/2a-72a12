@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Contacto
     content: >
       ¡Queremos ayudarte! Proporcionanos tus datos y nos contactaremos contigo
       lo más pronto posible.
