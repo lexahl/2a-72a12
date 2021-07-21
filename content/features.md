@@ -12,17 +12,22 @@ sections:
       necesidades.
 
 
-      *   Venta Garantizada
+      #### Venta Garantizada
 
-      *   Ahorro de Energía
 
-      *   CONTROL DE TEMPERATURA
+      #### Ahorro de Energía
 
-      *   SOPORTE TÉCNICO INMEDIATO
 
-      *   FORMAS DE PAGO
+      #### Control de Temperatura
 
-      *   GRAN VARIEDAD DE PRODUCTOS
+
+      #### Soporte Técnico Inmediato
+
+
+      #### Formas de pago
+
+
+      #### Gran Variedad de Productos
 
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
