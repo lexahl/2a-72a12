@@ -14,10 +14,7 @@ sections:
           buscas y las necesidades que te gustarían satisfacer. Posteriormente
           se agendará un cita para hacer una valoración y trabajar en una
           propuesta. 
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
+        actions: []
       - title: Decide
         subtitle: Nuestra misión es ayudarte
         details: >
