@@ -112,7 +112,7 @@ sections:
     title: Consigue tu máquina vending con solo un click
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Quiero mi máquina
         url: /signup
         style: primary
   - section_id: recent-posts
