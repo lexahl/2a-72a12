@@ -75,7 +75,7 @@ sections:
           la entrega y eliminan los atascos.
       - author: AHORRO DE ENERGÍA
         avatar: images/noun_Energy conservation_2682500.png
-        avatar_alt: Ahorro de energía
+        avatar_alt: Ahorro de Energía
         content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
       - author: CONTROL DE TEMPERATURA
         avatar: images/noun_Thermometer_4079928.png
