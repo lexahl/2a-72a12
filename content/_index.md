@@ -105,8 +105,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Tenemos una selección de más de +300 productos de las mejores marcas
-          nacionales e internacionales.
+          Nuestras máquinas están diseñadas para contar con una variedad de más
+          de 50 selecciones diferentes.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
