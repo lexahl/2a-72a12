@@ -21,7 +21,7 @@ sections:
         is_required: true
       - input_type: select
         name: Nombre
-        label: Subject
+        label: Asunto
         default_value: Please select
         options:
           - Estoy interesado en una máquina expededora
