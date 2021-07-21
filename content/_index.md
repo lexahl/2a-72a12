@@ -11,7 +11,7 @@ sections:
       fácil! Solamente tienes que contactarnos, y nosotros nos encargamos de lo
       demás.
     actions:
-      - label: Learn More
+      - label: Contacto
         url: /features
         style: primary
   - section_id: features
