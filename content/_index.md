@@ -72,7 +72,7 @@ sections:
       Contamos con la más alta tecnología en equipos para satisfacer todas tus
       necesidades.
     reviews:
-      - author: Venta Garantizada
+      - author: VENTA GARANTIZADA
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
