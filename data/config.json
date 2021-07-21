@@ -13,13 +13,13 @@
                 "style": "link"
             },
             {
-                "label": "Nuestras Máquinas",
-                "url": "/features",
+                "label": "Quiero una Máquina",
+                "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Quiero una Máquina",
-                "url": "/pricing",
+                "label": "Nuestras Máquinas",
+                "url": "/features",
                 "style": "link"
             },
             {
