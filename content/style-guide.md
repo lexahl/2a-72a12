@@ -1,5 +1,5 @@
 ---
-title: VENTAJAS DE NUESTRO SERVICIO
+title: Nuestras Máquinas
 seo:
   title: Style Guide
   description: This is the style guide page
