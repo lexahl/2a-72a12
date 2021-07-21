@@ -14,7 +14,7 @@ sections:
       - label: Contacto
         url: /features
         style: primary
-  - section_id: features
+  - section_id: Ventajas
     type: section_features
     background: gray
     title: Ventajas
