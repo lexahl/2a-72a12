@@ -91,7 +91,7 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - author: Jonquil Von Haggerston
+      - author: SOPORTE TÉCNICO INMEDIATO
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
