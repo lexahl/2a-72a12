@@ -19,7 +19,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Evaluación
+      - title: Informamos
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-
