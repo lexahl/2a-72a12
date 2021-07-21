@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Quiero Una Máquina
+    title: Quiero Una Máquina Grátis
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Contactanos
