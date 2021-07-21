@@ -22,12 +22,10 @@ sections:
       - title: Decide
         subtitle: For medium-sized businesses
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: >
+          Con base en la valoración la propuesta incluirá el numero y tipo de
+          máquinas más optimo para tus necesidades y características.  Con está
+          información es sólo cuestión de que tomes tu decisión.
         highlight: true
         actions:
           - label: Order Now
