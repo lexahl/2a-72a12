@@ -52,10 +52,10 @@ sections:
             icon_position: right
       - image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
+          para que te demos la propuesta más adecuada para ti y programar la
+          instalación gratis de tus maquinas vending.
         actions:
           - label: Learn More
             url: /features
