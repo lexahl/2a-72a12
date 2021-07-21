@@ -27,7 +27,7 @@ sections:
           - Estoy interesado en una máquina expededora
       - input_type: textarea
         name: message
-        label: MessageMens
+        label: Mensaje
       - input_type: checkbox
         name: consent
         label: >-
