@@ -29,13 +29,7 @@ sections:
           variedad de productos saludables, snacks, y bebidas porque nuestra
           misión es proveerte con una experiencia que es completamente
           satisfactoria para las necesidades de tus clientes y empleados.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/7.jpg
       - title: El mejor servicio y atención
         image: images/feature2.png
