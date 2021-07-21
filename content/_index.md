@@ -69,8 +69,8 @@ sections:
     background: white
     title: Nuestros Equipos
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Contamos con la más alta tecnología en equipos para satisfacer todas tus
+      necesidades.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
