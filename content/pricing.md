@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Contactanos
-        subtitle: For small businesses
+        subtitle: Por cualquier medio y cuentános lo que buscas
         details: >
           El primer paso es sólo contactarnos y compartirnos que es lo que
           buscas y las necesidades que te gustarían satisfacer. Posteriormente
