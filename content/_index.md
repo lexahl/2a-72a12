@@ -26,8 +26,9 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Aceptamos todas sugerencias y comentarios. Al final del día, nuestra
-          misión es proveerte con una experiencia que es completamente
+          Aceptamos todas sugerencias y comentarios. Contamos con una amplia
+          variedad de productos saludables, snacks, y bebidas. Al final del día,
+          nuestra misión es proveerte con una experiencia que es completamente
           satisfactoria para las necesidades de tus clientes y empleados.
         actions:
           - label: Learn More
