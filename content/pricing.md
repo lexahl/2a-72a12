@@ -34,11 +34,10 @@ sections:
       - title: Disfruta
         subtitle: For very large businesses
         price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: >+
+          Una vez que tomes tu decisión, es sólo cuestión de agendar y planear
+          la instalación gratuita y que disfrutes.
+
         actions:
           - label: Order Now
             url: /signup
