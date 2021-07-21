@@ -10,11 +10,11 @@ sections:
       - title: Contactanos
         subtitle: For small businesses
         price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >
+          El primer paso es sólo contactarnos y compartirnos que es lo que
+          buscas y las necesidades que te gustarían satisfacer. Posteriormente
+          se agendará un cita para hacer una valoración y trabajar en una
+          propuesta. 
         actions:
           - label: Order Now
             url: /signup
