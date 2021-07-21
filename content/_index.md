@@ -99,8 +99,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Para comodidad del cliente todos nuestros productos aceptan monedas y
+          billetes; con la posibilidad de otros tipos de pago.
       - author: GRAN VARIEDAD DE PRODUCTOS
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
