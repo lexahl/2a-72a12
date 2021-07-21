@@ -36,7 +36,7 @@ sections:
       especializados para la atención inmediata.
 
 
-      ##### Formas de pago
+      ##### Formas de Pago
 
 
       Para comodidad del cliente todos nuestros productos aceptan monedas y
