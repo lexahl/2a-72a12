@@ -109,7 +109,7 @@ sections:
           de 50 selecciones diferentes.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Consigue tu máquina vending con solo un click
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
