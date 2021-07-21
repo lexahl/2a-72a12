@@ -25,10 +25,10 @@ sections:
       - title: Una máquina hecha a tus necesidades
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Aceptamos todas sugerencias y comentarios. Al final del día, nuestra
+          misión es proveerte con una experiencia que es completamente
+          satisfactoria para las necesidades de tus clientes y empleados.
         actions:
           - label: Learn More
             url: /features
