@@ -79,7 +79,7 @@ sections:
         content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
       - author: CONTROL DE TEMPERATURA
         avatar: images/noun_Thermometer_4079928.png
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Control de Temperatura
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
