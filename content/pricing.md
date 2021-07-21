@@ -29,10 +29,7 @@ sections:
           Una vez que tomes tu decisión, es sólo cuestión de agendar y planear
           la instalación gratuita y que disfrutes.
 
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
+        actions: []
   - section_id: faq
     type: section_faq
     background: gray
