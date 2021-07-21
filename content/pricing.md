@@ -44,9 +44,9 @@ sections:
           Zuazua, Juárez, Pesquería y Salinas Victoria.
       - question: ¿Cómo funciona el servicio?
         answer: >
-          Nosotros proporcionamos la instalación gratuita las máquinas
+          Nosotros proporcionamos la instalación gratuita de las máquinas
           expendedoras y además las surtimos y damos mantenimiento
-          periódicamente para siempre estén funcionado para ti. Siempre
+          periódicamente para que siempre estén funcionado para ti. Esto lo
           realizamos esto en horarios y formas que no interrumpan tus
           operaciones.
       - question: ¿Qué requisitos necesito?
