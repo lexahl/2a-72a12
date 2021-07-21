@@ -54,7 +54,7 @@ sections:
           abastecimiento de máquinas expendedoras en toda el área metropolitana
           de Monterrey, incluyendo Cadereyta, Ciénega de Flores, García, General
           Zuazua, Juárez, Pesquería y Salinas Victoria.
-      - question: ¿Cómo
+      - question: ¿Cómo funciona el servicio?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
