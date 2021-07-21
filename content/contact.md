@@ -25,7 +25,6 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Other
       - input_type: textarea
         name: message
         label: Message
