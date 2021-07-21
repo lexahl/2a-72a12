@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: ¡Consigue una maquina para tu negocio GRÁTIS!
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      ¡Conseguir una máquina expendedora para tus instalaciones nunca fue tan
+      fácil! Solamente tienes que contactarnos, y nosotros nos encargamos de lo
+      demás. 
     actions:
       - label: Learn More
         url: /features
