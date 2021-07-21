@@ -20,7 +20,6 @@ sections:
             style: secondary
       - title: Decide
         subtitle: For medium-sized businesses
-        price: $49/m
         details: >
           Con base en la valoración la propuesta incluirá el numero y tipo de
           máquinas más optimo para tus necesidades y características.  Con está
