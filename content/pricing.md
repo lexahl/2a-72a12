@@ -19,7 +19,7 @@ sections:
             url: /signup
             style: secondary
       - title: Decide
-        subtitle: For medium-sized businesses
+        subtitle: Nuestra misión es ayudarte
         details: >
           Con base en la valoración la propuesta incluirá el numero y tipo de
           máquinas más optimo para tus necesidades y características.  Con está
