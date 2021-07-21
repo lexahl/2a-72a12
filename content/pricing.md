@@ -55,10 +55,12 @@ sections:
           de Monterrey, incluyendo Cadereyta, Ciénega de Flores, García, General
           Zuazua, Juárez, Pesquería y Salinas Victoria.
       - question: ¿Cómo funciona el servicio?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >
+          Nosotros proporcionamos la instalación gratuita las máquinas
+          expendedoras y además las surtimos y damos mantenimiento
+          periódicamente para siempre estén funcionado para ti. Siempre
+          realizamos esto en horarios y formas que no interrumpan tus
+          operaciones.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
