@@ -4,38 +4,29 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    title: Contacto
+    content: >
+      ¡Queremos ayudarte! Proporcionanos tus datos y nos contactaremos contigo
+      lo más pronto posible.
     form_id: contactForm
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Nombre
         is_required: true
       - input_type: email
         name: email
         label: Email
         is_required: true
       - input_type: select
-        name: subject
-        label: Subject
+        name: Nombre
+        label: Asunto
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Estoy interesado en una máquina expededora
       - input_type: textarea
         name: message
-        label: Message
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
+        label: Mensaje
     submit_label: Send Message
 seo:
   title: Contact
