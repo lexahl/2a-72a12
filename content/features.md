@@ -7,17 +7,22 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Instalación de máquinas expendedoras gratis
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Contamos con la más alta tecnología en equipos para satisfacer todas tus
+      necesidades.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Venta Garantizada
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Ahorro de Energía
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   CONTROL DE TEMPERATURA
+
+      *   SOPORTE TÉCNICO INMEDIATO
+
+      *   FORMAS DE PAGO
+
+      *   GRAN VARIEDAD DE PRODUCTOS
 
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
