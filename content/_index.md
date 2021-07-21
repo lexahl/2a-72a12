@@ -92,8 +92,9 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Realizamos mantenimientos periodicos y preventivos para evitar fallos;
+          pero además en caso de alguno contamos con stock de refecciones y
+          técnicos especializados para la atención inmediata.
       - author: FORMAS DE PAGO
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
