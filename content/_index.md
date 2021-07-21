@@ -68,36 +68,38 @@ sections:
       necesidades.
     reviews:
       - author: VENTA GARANTIZADA
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
+        avatar: images/noun_Shield_4080575.png
+        avatar_alt: Venta Garantizada
         content: >-
           Todos nuestros equipos manejan un sistema de sensores que garantizan
           la entrega y eliminan los atascos.
       - author: AHORRO DE ENERGÍA
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
+        avatar: images/noun_Energy conservation_2682500.png
+        avatar_alt: Ahorro de Energía
+        content: >-
+          Cada maquina cuenta con tecnología para el ahorro de consumo
+          eléctrico.
       - author: CONTROL DE TEMPERATURA
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar: images/noun_Thermometer_4079928.png
+        avatar_alt: Control de Temperatura
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
       - author: SOPORTE TÉCNICO INMEDIATO
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar: images/noun_Repair_1285380.png
+        avatar_alt: Soporte técnico inmediato
         content: >-
           Realizamos mantenimientos periodicos y preventivos para evitar fallos;
           pero además en caso de alguno contamos con stock de refecciones y
           técnicos especializados para la atención inmediata.
       - author: FORMAS DE PAGO
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar: images/noun_voucher_4052195.png
+        avatar_alt: Formas de Page
         content: >-
           Para comodidad del cliente todos nuestros productos aceptan monedas y
           billetes; con la posibilidad de otros tipos de pago.
       - author: GRAN VARIEDAD DE PRODUCTOS
-        avatar: images/review3.jpg
+        avatar: images/noun_vending machine_3477666.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Nuestras máquinas están diseñadas para contar con una variedad de más
