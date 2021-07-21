@@ -19,8 +19,8 @@ sections:
     background: gray
     title: Ventajas
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Al contar con el servicio de 2A Vending, le estas dando a tus
+      colaboradores un servicio confiable y de calidad.
     features:
       - title: Selección de productos personalizable
         image: images/feature1.png
