@@ -33,7 +33,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Instalación
+      - title: Disfruta
         subtitle: For very large businesses
         price: $149/m
         details: |-
