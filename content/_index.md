@@ -93,7 +93,7 @@ sections:
           pero además en caso de alguno contamos con stock de refecciones y
           técnicos especializados para la atención inmediata.
       - author: FORMAS DE PAGO
-        avatar: images/review3.jpg
+        avatar: images/noun_voucher_4052195.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Para comodidad del cliente todos nuestros productos aceptan monedas y
