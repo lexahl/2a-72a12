@@ -39,10 +39,10 @@ sections:
       - title: El mejor servicio y atención de máquinas Expendedoras
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          2A Vending ofrece un servicio de atención único, que incluye la
+          instalación de máquinas, surtido y abastecimiento de los productos, y
+          servicio técnico especializado.
         actions:
           - label: Learn More
             url: /features
