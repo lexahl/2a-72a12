@@ -48,7 +48,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: ¿Qué costo tiene una máquina expendedora en mis instalaciones?
+      - question: "¿Qué costo tiene\_ una máquina expendedora en mis instalaciones?"
         answer: >
           ¡Cero! 2A vending ofrece gratis el servicio de instalación y
           abastecimiento de máquinas expendedoras en toda el área metropolitana
