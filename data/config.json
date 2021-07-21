@@ -115,8 +115,8 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
                 "style": "link"
             }
         ],
