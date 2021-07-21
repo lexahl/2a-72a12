@@ -52,9 +52,9 @@ sections:
       - question: ¿Qué requisitos necesito?
         answer: >
           Realmente es muy sencillo, sólo con contar un espacio seguro y
-          adecuado para la instalación de las máquinas es todo lo necesario. No
-          importa el tamaño o giro de la empresa, la propuesta se adecuara en
-          base a la valoración y necesidades detectada.
+          adecuado para la instalación de las máquinas es todo lo que necesitas.
+          No importa el tamaño o giro de la empresa, la propuesta se adecuara en
+          base a la valoración y necesidades detectadas.
 seo:
   title: Pricing
   description: This is the pricing page
