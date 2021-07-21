@@ -74,7 +74,7 @@ sections:
           Todos nuestros equipos manejan un sistema de sensores que garantizan
           la entrega y eliminan los atascos.
       - author: AHORRO DE ENERGÍA
-        avatar: images/review2.jpg
+        avatar: images/noun_Energy conservation_2682500.png
         avatar_alt: Parsley Montana's photo
         content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
       - author: CONTROL DE TEMPERATURA
