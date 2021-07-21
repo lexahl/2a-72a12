@@ -36,7 +36,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Los mejores precios del mercado
+      - title: El mejor servicio y atención de máquinas Expendedoras
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
