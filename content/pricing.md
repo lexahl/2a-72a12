@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Quiero Una Máquina Grátis
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
+      sencillo!
     pricing_plans:
       - title: Contactanos
         subtitle: Por cualquier medio y cuentános lo que buscas
