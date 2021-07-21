@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: Instalación de máquinas expendedoras gratis
+    title: Nuestras Máquinas
     content: >
       Contamos con la más alta tecnología en equipos para satisfacer todas tus
       necesidades.
