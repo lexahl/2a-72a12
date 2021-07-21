@@ -12,22 +12,42 @@ sections:
       necesidades.
 
 
-      #### Venta Garantizada
+      ##### Venta Garantizada
 
 
-      #### Ahorro de Energía
+      Todos nuestros equipos manejan un sistema de sensores que garantizan la
+      entrega y eliminan los atascos.
 
 
-      #### Control de Temperatura
+      ##### Ahorro de Energía
 
 
-      #### Soporte Técnico Inmediato
+      Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
 
 
-      #### Formas de pago
+      ##### Control de Temperatura
 
 
-      #### Gran Variedad de Productos
+      ##### Soporte Técnico Inmediato
+
+
+      Realizamos mantenimientos periódicos y preventivos para evitar fallos;
+      pero además en caso de alguno contamos con stock de refecciones y técnicos
+      especializados para la atención inmediata.
+
+
+      ##### Formas de pago
+
+
+      Para comodidad del cliente todos nuestros productos aceptan monedas y
+      billetes; con la posibilidad de otros tipos de pago.
+
+
+      ##### Gran Variedad de Productos
+
+
+      Nuestras máquinas están diseñadas para contar con una variedad de más de
+      50 selecciones diferentes.
 
 
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
