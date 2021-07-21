@@ -100,7 +100,7 @@ sections:
           billetes; con la posibilidad de otros tipos de pago.
       - author: GRAN VARIEDAD DE PRODUCTOS
         avatar: images/noun_sweet food_4052201.png
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Gran Variedad de Productos
         content: >-
           Nuestras máquinas están diseñadas para contar con una variedad de más
           de 50 selecciones diferentes.
