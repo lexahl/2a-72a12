@@ -99,7 +99,7 @@ sections:
           Para comodidad del cliente todos nuestros productos aceptan monedas y
           billetes; con la posibilidad de otros tipos de pago.
       - author: GRAN VARIEDAD DE PRODUCTOS
-        avatar: images/review3.jpg
+        avatar: images/noun_vending machine_3477666.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Nuestras máquinas están diseñadas para contar con una variedad de más
