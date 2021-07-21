@@ -81,7 +81,7 @@ sections:
       - author: AHORRO DE ENERGÍA
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
-        content: Cada maquina
+        content: Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
       - author: CONTROL DE TEMPERATURA
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
