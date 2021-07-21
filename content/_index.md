@@ -109,7 +109,7 @@ sections:
           de 50 selecciones diferentes.
   - section_id: call-to-action
     type: section_cta
-    title: Consigue tu máquina vending con solo un click
+    title: Consigue tu máquina vending aquí
     actions:
       - label: Quiero mi máquina
         url: /signup
