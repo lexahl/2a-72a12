@@ -105,8 +105,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Tenemos una selección de más de +300 productos de las mejores marcas
+          nacionales e internacionales.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
