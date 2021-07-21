@@ -23,7 +23,6 @@ sections:
       colaboradores un servicio confiable y de calidad.
     features:
       - title: Selección de productos personalizable
-        image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
           Aceptamos todas sugerencias y comentarios. Contamos con una amplia
