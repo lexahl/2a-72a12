@@ -68,7 +68,7 @@ sections:
       necesidades.
     reviews:
       - author: VENTA GARANTIZADA
-        avatar: images/review1.jpg
+        avatar: images/noun_Shield_4080575.png
         avatar_alt: Eric Widget's photo
         content: >-
           Todos nuestros equipos manejan un sistema de sensores que garantizan
