@@ -62,14 +62,11 @@ sections:
           realizamos esto en horarios y formas que no interrumpan tus
           operaciones.
       - question: ¿Qué requisitos necesito?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+        answer: >
+          Realmente es muy sencillo, sólo con contar un espacio seguro y
+          adecuado para la instalación de las máquinas es todo lo necesario. No
+          importa el tamaño o giro de la empresa, la propuesta se adecuara en
+          base a la valoración y necesidades detectada.
 seo:
   title: Pricing
   description: This is the pricing page
