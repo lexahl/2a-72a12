@@ -118,11 +118,6 @@
                 "label": "Terms of Service",
                 "url": "/terms-of-service",
                 "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
             }
         ],
         "content": "&copy; 2A Industrial Supply, 2021."
