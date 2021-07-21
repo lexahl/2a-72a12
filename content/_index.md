@@ -87,7 +87,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
       - author: SOPORTE TÉCNICO INMEDIATO
         avatar: images/noun_Repair_1285380.png
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Soporte técnico inmediato
         content: >-
           Realizamos mantenimientos periodicos y preventivos para evitar fallos;
           pero además en caso de alguno contamos con stock de refecciones y
