@@ -59,7 +59,7 @@ sections:
             icon: arrow-right
             icon_position: right
         title: Instalación gratuita
-  - section_id: reviews
+  - section_id: Nuestros Equipos
     type: section_reviews
     background: white
     title: Nuestros Equipos
