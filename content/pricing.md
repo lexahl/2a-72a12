@@ -5,9 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Quiero Una Máquina Grátis
-    subtitle: >-
-      Obtén una máquina expendedora en tus instalaciones hoy mismo. ¡Es muy
-      sencillo!
+    subtitle: Obtén una máquina expendedora en tus instalaciones. ¡Es muy sencillo!
     pricing_plans:
       - title: 1. Contactanos
         subtitle: Por cualquier medio y cuéntanos lo que buscas.
