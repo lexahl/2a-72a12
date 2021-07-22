@@ -77,7 +77,7 @@ seo:
         necesidades.
       keyName: property
     - name: 'og:image'
-      value: images/feature1.png
+      value: images/inicio_main-arte.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
