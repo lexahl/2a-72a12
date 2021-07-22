@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@lexahl 
+lexahl
+/
+2a-72a12
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+2a-72a12/data/config.json
+@lexahl
+lexahl config.json: updated label in nav_links
+Latest commit 7a35368 4 minutes ago
+ History
+ 2 contributors
+@lexahl@stackbit-projects
+106 lines (106 sloc)  3.36 KB
+  
 {
     "title": "2A Vending Machines",
     "base_font": "nunito-sans",
@@ -104,3 +137,16 @@
     "domain": "https://vending2a.netlify.app",
     "favicon": "images/favicon-32x32.png"
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete{"mode":"full","isActive":false}
