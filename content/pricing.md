@@ -58,7 +58,7 @@ sections:
           No importa el tamaño o giro de la empresa, la propuesta se adecuara en
           base a la valoración y necesidades detectadas.
 seo:
-  title: Quiero Una Máquina Grátis
+  title: Quiero Una Máquina Expendedora Grátis
   description: >-
     Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
     sencillo!
