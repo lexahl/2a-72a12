@@ -42,7 +42,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        ¡Queremos ayudarte! Proporcíonanos tus datos y nos contactaremos contigo
+        ¡Queremos ayudarte! Proporciónanos tus datos y nos contactaremos contigo
         lo más pronto posible.
       keyName: property
     - name: 'twitter:card'
