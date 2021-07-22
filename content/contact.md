@@ -15,7 +15,7 @@ sections:
       Correo: anglara00@gmail.com
 
 
-      ¡Queremos ayudarte! Proporciónanos tus datos en esta forma y nos
+      ###### ¡Queremos ayudarte! Proporciónanos tus datos en esta forma y nos
       contactaremos contigo lo más pronto posible:
     form_id: contactForm
     form_fields:
