@@ -7,7 +7,7 @@ sections:
     title: Contacto
     content: >
       ¡Queremos ayudarte! Proporciónanos tus datos y nos contactaremos contigo
-      lo más pronto posible.
+      lo más pronto posible o llámanos al +52 811-965-5345.
     form_id: contactForm
     form_fields:
       - input_type: text
