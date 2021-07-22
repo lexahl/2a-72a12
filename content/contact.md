@@ -27,6 +27,7 @@ sections:
         name: Email
         label: Email
         is_required: true
+        default_value: Email
     submit_label: Enviar
 seo:
   title: Contacto
