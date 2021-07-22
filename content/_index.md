@@ -97,7 +97,7 @@ sections:
     title: Consigue tu máquina vending aquí
     actions:
       - label: Quiero mi Máquina
-        url: /signup
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts
