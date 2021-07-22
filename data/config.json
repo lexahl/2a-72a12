@@ -51,7 +51,7 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Enviar"
             },
             {
                 "type": "footer_nav",
