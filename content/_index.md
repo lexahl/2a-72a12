@@ -125,7 +125,7 @@ seo:
     - name: 'twitter:title'
       value: 2A Vending Machines
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: 2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras en Monterrey, Nuevo Léon.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
