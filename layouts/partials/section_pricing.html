@@ -6,7 +6,7 @@
     {{ end }}
     {{ if $section.subtitle }}
     <p class="block-subtitle">
-      Obtén una máquina expendedora en tus instalaciones hoy mismo. <br>¡Es muy sencillo!
+        {{ $section.subtitle | safeHTML }}
     </p>
     {{ end }}
   </div>
