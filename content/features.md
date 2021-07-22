@@ -57,7 +57,7 @@ sections:
     title: Consigue tu máquina vending aquí
     actions:
       - label: Quiero mi Máquina
-        url: /
+        url: wa.me/
         style: secondary
 seo:
   title: Maquinas Expendedoras
