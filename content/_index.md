@@ -25,17 +25,7 @@ sections:
     background: gray
     pricing_plans:
       - price: VISIÓN
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: "Ser el líder en el segmento del Vending Machines mediante un servicio personalizado, rápido y eficaz.\_Buscando siempre la mejora continúa en nuestros procesos y sistemas.\n\n\n\n\n\n\n"
         highlight: false
         actions: []
         type: pricing_plan
