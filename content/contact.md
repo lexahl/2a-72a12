@@ -50,6 +50,8 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        ¡Queremos ayudarte! Proporciónanos tus datos y nos contactaremos contigo
+        lo más pronto posible.
 layout: landing
 ---
