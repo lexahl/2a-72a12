@@ -105,7 +105,7 @@ sections:
     title: ¡Manejamos las mejores marcas!
 seo:
   title: 2A Vending Machines
-  description: The preview of the Azimuth theme
+  description: 2A Vending Machines es u
   extra:
     - name: 'og:type'
       value: website
