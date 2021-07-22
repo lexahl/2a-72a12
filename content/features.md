@@ -87,5 +87,11 @@ seo:
     - name: 'twitter:image'
       value: images/feature1.png
       relativeUrl: true
+    - name: 'twitter:description'
+      value: >-
+        Contamos con la más alta tecnología en equipos para satisfacer todas tus
+        necesidades.
+      keyName: name
+      relativeUrl: false
 layout: landing
 ---
