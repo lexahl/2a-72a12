@@ -20,8 +20,6 @@
       <input aria-labelledby="{{ $section.form_id }}-honeypot-label" type="hidden" name="form-name" value="{{ $section.form_id }}" />
       {{ range $field := $section.form_fields }}
       <div class="form-row">
-        {{ $include_dict := dict "field" $field "section" $section }}
-        {{ partial "form_field.html" $include_dict }}
         <form name="contactoForm" method="POST" data-netlify="true">
           <p>
     <label>Nombre:<input type="text" name="name" /></label>   
