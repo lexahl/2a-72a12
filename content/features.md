@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/inicio_main-arte.png
     image_alt: App preview on a phone and tablet
-    title: Nuestras Máquinas
+    title: Servicios
     content: >
       Contamos con la más alta tecnología en equipos para satisfacer todas tus
       necesidades.
