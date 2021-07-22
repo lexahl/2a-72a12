@@ -56,7 +56,7 @@ sections:
     type: section_cta
     title: Consigue tu máquina vending aquí
     actions:
-      - label: 'Quiero '
+      - label: Quiero mi Máq
         url: '#'
         style: secondary
 seo:
