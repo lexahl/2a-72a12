@@ -114,7 +114,7 @@ seo:
       value: 2A Vending Machines
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: 2A Vending Machines, Máquinas Expendedoras, Monterrey, Nuevo Léon.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
