@@ -22,22 +22,6 @@
       <div class="form-row">
         {{ $include_dict := dict "field" $field "section" $section }}
         {{ partial "form_field.html" $include_dict }}
-        <form name="contactoForm" method="POST" data-netlify="true">
-          <p>
-    <label>Nombre:<input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Email:<input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Asunto:<select name="role[]" multiple>
-      <option value="leader">Estoy interesado en una máquina expendedora</option>
-      <option value="otro">Otro...</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Mensaje:<textarea name="message"></textarea></label>
-  </p>
       </div>
       {{ end }}
       <div class="form-row form-submit">
