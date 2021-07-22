@@ -98,19 +98,7 @@
             }
         ],
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "nav_links": [],
         "content": "&copy; Grupo 2A, 2021."
     },
     "domain": "https://vending2a.netlify.app",
