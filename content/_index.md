@@ -16,7 +16,12 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Somos una compañía, con más de 20 años de experiencia en el ramo del
+      Vending atendiendo principalmente al mercado Industrial. Somos
+      especialistas  y ofrecemos soluciones integrales, mediante asesorías y
+      recomendaciones de productos, basados en la filosofía de satisfacción
+      total del cliente. 
     background: gray
     pricing_plans:
       - title: lorem-ipsum
