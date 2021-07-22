@@ -48,10 +48,7 @@ sections:
 
       Nuestras máquinas están diseñadas para contar con una variedad de más de
       50 selecciones diferentes.
-    actions:
-      - label: View Demo
-        url: '#'
-        style: secondary
+    actions: []
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
