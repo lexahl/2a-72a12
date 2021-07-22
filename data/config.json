@@ -39,6 +39,23 @@
                 "content": "2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras con base en Monterrey, Nuevo Léon. \n\n\n\n"
             },
             {
+                "type": "footer_form",
+                "title": "Subscribe",
+                "content": "Stay up to date with our latest developments.",
+                "form_id": "contactForm",
+                "hide_labels": false,
+                "form_fields": [
+                    {
+                        "input_type": "email",
+                        "name": "email",
+                        "label": "Email",
+                        "default_value": "Enter email address",
+                        "is_required": true
+                    }
+                ],
+                "submit_label": "Subscribe"
+            },
+            {
                 "type": "footer_nav",
                 "title": "Company",
                 "nav_links": [
@@ -58,23 +75,6 @@
                         "style": "link"
                     }
                 ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "contactForm",
-                "hide_labels": false,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Subscribe"
             },
             {
                 "type": "footer_nav",
