@@ -17,7 +17,7 @@ sections:
 
       ###### ¡Queremos ayudarte! Proporciónanos tus datos en esta forma y nos
       contactaremos contigo lo más pronto posible:
-    form_id: contactoForm
+    form_id: contactForm
     form_fields:
       - input_type: text
         name: Nombre
