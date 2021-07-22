@@ -105,7 +105,7 @@
                         "input_type": "text",
                         "name": "Déjanos tus datos",
                         "label": "Déjanos tus datos!",
-                        "default_value": "Email",
+                        "default_value": "Nombre",
                         "is_required": true
                     }
                 ],
