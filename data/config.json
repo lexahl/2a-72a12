@@ -103,7 +103,7 @@
                 "form_fields": [
                     {
                         "input_type": "text",
-                        "name": "Déjanos tus datos",
+                        "name": "Contacto",
                         "label": "Déjanos tus datos!",
                         "default_value": "Nombre",
                         "is_required": true
