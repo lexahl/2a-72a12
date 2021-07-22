@@ -53,7 +53,7 @@ sections:
       - title: Selección de productos personalizable
         image_alt: App preview on a phone and tablet
         content: >
-          Aceptamos todas sugerencias y comentarios. Contamos con una amplia
+          Aceptamos todas las sugerencias y comentarios. Contamos con una amplia
           variedad de productos saludables, snacks, y bebidas porque nuestra
           misión es proveerte con una experiencia que es completamente
           satisfactoria para las necesidades de tus clientes y empleados.
