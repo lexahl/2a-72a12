@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contacto",
                 "url": "/contact",
                 "style": "primary"
@@ -44,62 +39,9 @@
                 "content": "2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras con base en Monterrey, Nuevo Léon. \n\n\n\n"
             },
             {
-                "type": "footer_nav",
-                "title": "Company",
-                "nav_links": [
-                    {
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "type": "footer_nav",
-                "title": "Community",
-                "nav_links": [
-                    {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "Whatsapp",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
-                    }
-                ]
-            },
-            {
                 "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
                 "form_id": "contactForm",
-                "hide_labels": true,
+                "hide_labels": false,
                 "form_fields": [
                     {
                         "input_type": "email",
@@ -110,11 +52,55 @@
                     }
                 ],
                 "submit_label": "Subscribe"
+            },
+            {
+                "type": "footer_nav",
+                "title": "Acerca de Nosotros",
+                "nav_links": [
+                    {
+                        "label": "Quiero una Máquina",
+                        "url": "/pricing",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Nuestras Máquinas",
+                        "url": "/features",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Contacto",
+                        "url": "/contact",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Redes Sociales",
+                "nav_links": [
+                    {
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/company/vending2a/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "Whatsapp",
+                        "url": "https://github.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "facebook",
+                        "icon_position": "left"
+                    }
+                ]
             }
         ],
         "has_nav": true,
         "nav_links": [],
         "content": "&copy; Grupo 2A, 2021."
     },
-    "domain": "https://vending2a.netlify.app"
+    "domain": "https://vending2a.netlify.app",
+    "favicon": "images/favicon-32x32.png"
 }
