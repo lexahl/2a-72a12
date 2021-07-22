@@ -27,7 +27,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensaje
-    submit_label: Send Message
+    submit_label: Enviar
 seo:
   title: Contact
   description: This is the contact page
