@@ -98,7 +98,7 @@ sections:
       - author: CONTROL DE TEMPERATURA
         avatar: images/noun_Thermometer_4079928.png
         avatar_alt: Control de Temperatura
-        content: Equipos refrigerados controlada para la conservación de los alimentos.
+        content: Equipos refrigerados para bebid conservación de los alimentos.
       - author: SOPORTE TÉCNICO INMEDIATO
         avatar: images/noun_Repair_1285380.png
         avatar_alt: Soporte técnico inmediato
