@@ -70,7 +70,9 @@ seo:
       value: Quiero Una Máquina Grátis
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: >-
+        Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
+        sencillo!
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
