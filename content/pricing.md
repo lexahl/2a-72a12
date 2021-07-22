@@ -59,7 +59,9 @@ sections:
           base a la valoración y necesidades detectadas.
 seo:
   title: Quiero Una Máquina Grátis
-  description: This is the pricing page
+  description: >-
+    Obtén una máquina expendedora en tus instalación hoy mismo.      ¡Es muy
+    sencillo!
   extra:
     - name: 'og:type'
       value: website
