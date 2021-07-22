@@ -24,8 +24,7 @@ sections:
       total del cliente. 
     background: gray
     pricing_plans:
-      - price: VISIÓN
-        details: "## Visión\n\nSer el líder en el segmento del Vending Machines mediante un servicio personalizado, rápido y eficaz.\_Buscando siempre la mejora continúa en nuestros procesos y sistemas.\n"
+      - details: "## Visión\n\nSer el líder en el segmento del Vending Machines mediante un servicio personalizado, rápido y eficaz.\_Buscando siempre la mejora continúa en nuestros procesos y sistemas.\n"
         highlight: false
         actions: []
         type: pricing_plan
