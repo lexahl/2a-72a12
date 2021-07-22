@@ -45,7 +45,7 @@
                 "form_fields": [
                     {
                         "input_type": "email",
-                        "name": "email",
+                        "name": "Dejanos tus datos",
                         "label": "Email",
                         "default_value": "Email",
                         "is_required": true
