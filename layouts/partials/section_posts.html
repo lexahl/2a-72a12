@@ -10,31 +10,38 @@
     </p>
     {{ end }}
   </div>
-  <div class="inner">
-    <div class="grid post-feed">
-      {{ $display_posts := ((.Site.GetPage "section" "/blog").Pages).ByDate.Reverse }}
-      {{ $recent_posts := $display_posts | first 3 }}
-      {{ range $post := $recent_posts }}
-      <article class="cell post">
-        <div class="card">
-          {{ if $post.Params.thumb_image }}
-          <a class="post-thumbnail" href="{{ $post.URL }}">
-            <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
-          </a>
-          {{ end }}
-          <div class="post-body">
-            <header class="post-header">
-              <h3 class="post-title"><a href="{{ $post.URL }}">{{ $post.Params.title }}</a></h3>
-            </header>
-            <div class="post-excerpt">
-              <p>{{ $post.Params.excerpt }}</p>
-            </div>
-            {{ $include_dict := dict "page" $post "date_type" "short" }}
-            {{ partial "blog_post_footer.html" $include_dict }}
-          </div>
-        </div>
-      </article>
-      {{ end }}
-    </div>
+<div class="row">
+  <div class="column" align="center">
+    <img src="https://i.imgur.com/DR4V8SQ.png" alt="Tostitos" style="width:60%">
   </div>
+  <div class="column">
+    <img src="https://i.imgur.com/ghm6oRh.png" alt="Pepsi" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/HgJ3NAg.png" alt="Coca Cola" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/rz0I4aM.png" alt="Bimbo" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/nl3NuEA.png" alt="Arizona" style="width:60%">
+  </div>
+  </div>
+  <div class="row">
+  <div class="column" align="center">
+    <img src="https://i.imgur.com/rhIyZLe.png" alt="Jumex" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/1v6x7bP.png" alt="Barcel" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/FYsQl0i.png" alt="Doritos" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/0MX6V0o.png" alt="Cheetos" style="width:60%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/WzJ4EoR.png" alt="Hershey" style="width:60%">
+  </div>
+</div>
 </section><!-- .block -->

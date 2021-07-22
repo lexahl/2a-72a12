@@ -31,6 +31,23 @@
   max-width: $container;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 20.00%;
+  padding: 10px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .inner-large {
   margin-left: auto;
   margin-right: auto;

@@ -104,17 +104,17 @@ sections:
     background: gray
     title: ¡Manejamos las mejores marcas!
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: 2A Vending Machines
+  description: 2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras en Monterrey, Nuevo Léon.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: 2A Vending Machines
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: 2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras en Monterrey, Nuevo Léon.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -123,9 +123,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: 2A Vending Machines
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: 2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras en Monterrey, Nuevo Léon.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

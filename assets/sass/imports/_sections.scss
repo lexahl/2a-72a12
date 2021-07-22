@@ -345,7 +345,6 @@
 
   &:before {
     color: $color-primary;
-    content: "\201C";
     display: block;
     font-size: 3.5em;
     font-weight: bold;
@@ -369,7 +368,7 @@
 }
 
 .review-avatar {
-  border-radius: 50%;
+  border-radius: 0%;
   height: 60px;
   margin-right: 0.9375em;
   width: 60px;
