@@ -78,7 +78,7 @@ seo:
       value: Máquina Expendedora Grátis
     - name: 'twitter:description'
       value: >-
-        Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
+        Obtén una máquina vending en tus instalaciones sin costo ¡Es muy
         sencillo!
     - name: 'og:image'
       value: images/inicio_main-arte.png
