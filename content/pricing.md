@@ -60,7 +60,7 @@ sections:
 seo:
   title: Quiero Una Máquina Grátis
   description: >-
-    Obtén una máquina expendedora en tus instalación hoy mismo.      ¡Es muy
+    Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
     sencillo!
   extra:
     - name: 'og:type'
