@@ -99,7 +99,7 @@ sections:
         avatar: images/noun_Thermometer_4079928.png
         avatar_alt: Control de Temperatura
         content: >-
-          Equipos refrigerados para bebidas heladas y la conservación de los
+          Equipos refrigerados para bebidas heladas y la conservación de
           alimentos.
       - author: SOPORTE TÉCNICO INMEDIATO
         avatar: images/noun_Repair_1285380.png
