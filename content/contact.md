@@ -7,7 +7,16 @@ sections:
     title: Contacto
     content: >
       ¡Queremos ayudarte! Proporciónanos tus datos y nos contactaremos contigo
-      lo más pronto posible o llámanos al (+52) 81-1965-5345.
+      lo más pronto posible o contactanos a:
+
+
+      ###### Nuestros datos:
+
+
+      Teléfono: (+52) 81-1965-5345
+
+
+      *   Correo: anglara00@gmail.com
     form_id: contactForm
     form_fields:
       - input_type: text
