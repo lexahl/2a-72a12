@@ -95,6 +95,21 @@
                     }
                 ],
                 "submit_label": "Enviar"
+            },
+             {
+                "type": "footer_form",
+                "form_id": "contactForm",
+                "hide_labels": false,
+                "form_fields": [
+                    {
+                        "input_type": "email",
+                        "name": "Déjanos tus datos",
+                        "label": "Déjanos tus datos!",
+                        "default_value": "Email",
+                        "is_required": true
+                    }
+                ],
+                "submit_label": "Enviar"
             }
         ],
         "has_nav": true,
