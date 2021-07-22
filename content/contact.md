@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: Nombre
         label: Asunto
-        default_value: Please select
+        default_value: Selec
         options:
           - Estoy interesado en una máquina expededora
       - input_type: textarea
