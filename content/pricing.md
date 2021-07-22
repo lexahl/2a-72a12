@@ -69,8 +69,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
-        sencillo!
+        Obtén una máquina expendedora vending en tus instalación sin costo. ¡Es
+        muy sencillo!
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
