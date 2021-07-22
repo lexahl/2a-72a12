@@ -55,8 +55,8 @@ sections:
         content: >
           Aceptamos todas las sugerencias y comentarios. Contamos con una amplia
           variedad de productos saludables, snacks, y bebidas porque nuestra
-          misión es proveerte con una experiencia que es completamente
-          satisfactoria para las necesidades de tus clientes y empleados.
+          misión es proveerte una experiencia completamente satisfactoria para
+          las necesidades de tus clientes y empleados.
         actions: []
         image: images/selección.png
       - title: El mejor servicio y atención
