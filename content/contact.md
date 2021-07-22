@@ -34,7 +34,7 @@ sections:
         options:
           - Estoy interesado en una máquina expendedora
           - Otro...
-        is_required: true
+        is_required: false
       - input_type: textarea
         name: message
         label: Mensaje
