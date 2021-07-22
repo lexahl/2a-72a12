@@ -58,7 +58,7 @@ sections:
           No importa el tamaño o giro de la empresa, la propuesta se adecuara en
           base a la valoración y necesidades detectadas.
 seo:
-  title: Pricing
+  title: Quiero Una Máquina Grátis
   description: This is the pricing page
   extra:
     - name: 'og:type'
