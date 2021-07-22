@@ -39,7 +39,7 @@ sections:
           instalación de máquinas, surtido y abastecimiento de los productos, y
           servicio técnico especializado. ¡Completamente gratuito!
         actions: []
-      - image: images/feature3.png
+      - image: images/instalación.png
         image_alt: App user profile preview
         content: >
           Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
