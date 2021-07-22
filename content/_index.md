@@ -105,7 +105,7 @@ sections:
     title: ¡Manejamos las mejores marcas!
 seo:
   title: 2A Vending Machines
-  description: 2A Vending Machines es u
+  description: 2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras en Monterrey, Nuevo Léon.
   extra:
     - name: 'og:type'
       value: website
