@@ -104,7 +104,7 @@ sections:
     background: gray
     title: ¡Manejamos las mejores marcas!
 seo:
-  title: Stackbit Azimuth Theme
+  title: 2A Vending Machines
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
