@@ -85,7 +85,7 @@ seo:
     - name: 'twitter:title'
       value: Nuestras Máquinas
     - name: 'twitter:image'
-      value: images/feature1.png
+      value: images/inicio_main-arte.png
       relativeUrl: true
     - name: 'twitter:description'
       value: >-
