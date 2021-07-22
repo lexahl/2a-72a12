@@ -31,7 +31,7 @@ sections:
 seo:
   title: Contacto
   description: >-
-    ¡Queremos ayudarte! Proporcíonanos tus datos y nos contactaremos contigo lo
+    ¡Queremos ayudarte! Proporciónanos tus datos y nos contactaremos contigo lo
     más pronto posible.
   extra:
     - name: 'og:type'
