@@ -59,9 +59,7 @@ sections:
           base a la valoración y necesidades detectadas.
 seo:
   title: Quiero Una Máquina Expendedora Grátis
-  description: >-
-    Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
-    sencillo!
+  description: Obtén una máquina vending en tus instalación sin costo. ¡Es muy sencillo!
   extra:
     - name: 'og:type'
       value: website
