@@ -15,7 +15,7 @@ sections:
         url: /features
         style: primary
   - section_id: lorem-ipsum
-    title: ¿Quiénes somos?
+    title: ¿Quiénes Somos?
     subtitle: >-
       Somos una compañía, con más de 20 años de experiencia en el ramo del
       Vending atendiendo principalmente al mercado Industrial. Somos
