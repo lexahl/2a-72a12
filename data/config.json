@@ -102,7 +102,7 @@
                 "hide_labels": false,
                 "form_fields": [
                     {
-                        "input_type": "email",
+                        "input_type": "text",
                         "name": "Déjanos tus datos",
                         "label": "Déjanos tus datos!",
                         "default_value": "Email",
