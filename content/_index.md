@@ -24,8 +24,7 @@ sections:
       total del cliente. 
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
