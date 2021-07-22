@@ -22,7 +22,7 @@ sections:
       ##### Ahorro de Energía
 
 
-      Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico
+      Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico.
 
 
       ##### Control de Temperatura
@@ -48,10 +48,6 @@ sections:
 
       Nuestras máquinas están diseñadas para contar con una variedad de más de
       50 selecciones diferentes.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
     actions:
       - label: Free Trial
         url: /signup
