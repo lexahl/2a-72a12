@@ -77,7 +77,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Quiero Una Máquina Grátis
+      value: Máquina Expendedora Grátis
     - name: 'twitter:description'
       value: >-
         Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
