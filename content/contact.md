@@ -23,6 +23,7 @@ sections:
         name: Nombre
         label: Nombre
         is_required: true
+        default_value: Nombre
       - input_type: email
         name: Email
         label: Email
