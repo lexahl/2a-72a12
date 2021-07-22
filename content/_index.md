@@ -28,8 +28,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
-        details: >-
+      - details: >-
           ## Lorem ipsum
 
 
