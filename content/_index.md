@@ -51,13 +51,7 @@ sections:
           Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
           para que te demos la propuesta más adecuada para ti y programar la
           instalación gratis de tus maquinas vending.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         title: Instalación gratuita
   - section_id: Nuestros Equipos
     type: section_reviews
