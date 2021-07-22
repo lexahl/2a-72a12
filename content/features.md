@@ -49,9 +49,6 @@ sections:
       Nuestras máquinas están diseñadas para contar con una variedad de más de
       50 selecciones diferentes.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: View Demo
         url: '#'
         style: secondary
