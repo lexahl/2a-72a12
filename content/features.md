@@ -57,7 +57,8 @@ sections:
     title: Consigue tu máquina vending aquí
     actions:
       - label: Quiero mi Máquina
-        url: wa.me/
+        url: >-
+          https://api.whatsapp.com/send?phone=528119655345&text=%C2%A1Hola!%20%C2%BFMe%20podr%C3%ADan%20pasar%20m%C3%A1s%20informaci%C3%B3n%20de%20las%20m%C3%A1quinas%20expendedoras%3F
         style: secondary
 seo:
   title: Maquinas Expendedoras
