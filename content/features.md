@@ -7,50 +7,33 @@ sections:
     image: images/inicio_main-arte.png
     image_alt: App preview on a phone and tablet
     title: Servicios
-    content: >
+    content: >+
       Contamos con la más alta tecnología en equipos para satisfacer todas tus
       necesidades.
 
 
-      ##### Venta Garantizada
+      ##### Instalación de Máquinas
 
 
-      Todos nuestros equipos manejan un sistema de sensores que garantizan la
-      entrega y eliminan los atascos.
 
 
-      ##### Ahorro de Energía
+      ##### Venta/Renta de Máquinas
 
 
-      Cada maquina cuenta con tecnología para el ahorro de consumo eléctrico.
 
 
-      ##### Control de Temperatura
+      ##### Venta de Refacciones
 
 
-      Máquinas refrigeradas para bebidas heladas y conservación de alimentos.
 
 
-      ##### Soporte Técnico Inmediato
+      ##### Servicio de Técnico y Mantenimiento
 
 
-      Realizamos mantenimientos periódicos y preventivos para evitar fallos;
-      pero además en caso de alguno contamos con stock de refecciones y técnicos
-      especializados para la atención inmediata.
 
 
-      ##### Formas de Pago
+      ##### Movimientos y Traslados de Máquinas
 
-
-      Para comodidad del cliente todos nuestros productos aceptan monedas y
-      billetes; con la posibilidad de otros tipos de pago.
-
-
-      ##### Gran Variedad de Productos
-
-
-      Nuestras máquinas están diseñadas para contar con una variedad de más de
-      50 selecciones diferentes.
     actions: []
   - section_id: call-to-action
     type: section_cta
