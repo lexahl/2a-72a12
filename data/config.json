@@ -55,7 +55,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Acerca",
+                "title": "Acerca de ",
                 "nav_links": [
                     {
                         "label": "About Us",
