@@ -34,7 +34,9 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: >-
+      Estas son algunas de las preguntas más frecuentes. Si tienes alguna otra
+      ¡no dudes en contactarnos!
     faq_items:
       - question: "¿Qué costo tiene\_colocar una máquina expendedora en mis instalaciones?"
         answer: >
