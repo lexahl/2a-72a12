@@ -116,5 +116,6 @@
         "nav_links": [],
         "content": "&copy; Grupo 2A, 2021."
     },
-    "domain": "https://vending2a.netlify.app"
+    "domain": "https://vending2a.netlify.app",
+    "favicon": "images/favicon-32x32.png"
 }
