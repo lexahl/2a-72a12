@@ -88,7 +88,7 @@
                 "form_fields": [
                     {
                         "input_type": "text",
-                        "name": "<nombre",
+                        "name": "Nombre",
                         "label": "lorem-ipsum",
                         "default_value": "lorem-ipsum",
                         "options": [],
