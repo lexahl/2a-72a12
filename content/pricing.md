@@ -23,7 +23,7 @@ sections:
           información es sólo cuestión de que tomes tu decisión.
         highlight: false
         actions: []
-      - title: Disfruta
+      - title: 3. Disfruta
         subtitle: Despreocupate y sólo disfruta los beneficios
         details: >+
           Una vez que tomes tu decisión, es sólo cuestión de agendar y planear
