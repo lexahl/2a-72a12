@@ -79,6 +79,8 @@ seo:
     - name: 'twitter:title'
       value: Quiero Una Máquina Grátis
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: >-
+        Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
+        sencillo!
 layout: landing
 ---
