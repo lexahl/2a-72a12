@@ -8,7 +8,7 @@ sections:
     subtitle: "Obtén una máquina expendedora en tus instalación hoy mismo.\_ \_ \_ ¡Es muy sencillo!"
     pricing_plans:
       - title: 1. Contactanos
-        subtitle: Por cualquier medio y cuentános lo que buscas
+        subtitle: Por cualquier medio y cuentános lo que buscas.
         details: >
           El primer paso es sólo contactarnos y compartirnos que es lo que
           buscas y las necesidades que te gustarían satisfacer. Posteriormente
