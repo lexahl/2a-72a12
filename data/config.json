@@ -58,7 +58,7 @@
                 "title": "Acerca de Nosotros",
                 "nav_links": [
                     {
-                        "label": "Qu",
+                        "label": "Quiero una Máquina",
                         "url": "/about",
                         "style": "link"
                     },
