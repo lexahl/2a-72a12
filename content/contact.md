@@ -41,7 +41,9 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        ¡Queremos ayudarte! Proporcíonanos tus datos y nos contactaremos contigo
+        lo más pronto posible.
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
