@@ -32,7 +32,7 @@ sections:
         actions: []
         image: images/selección.png
       - title: El mejor servicio y atención
-        image: images/feature2.png
+        image: images/servicio.png
         image_alt: App users welcoming a new member
         content: >
           2A Vending ofrece un servicio de atención único, que incluye la
