@@ -101,7 +101,7 @@
                         "name": "email",
                         "label": "Email",
                         "default_value": "Enter email address",
-                        "is_required": true
+                        "is_required": false
                     }
                 ],
                 "submit_label": "Subscribe"
