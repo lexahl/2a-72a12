@@ -108,6 +108,7 @@
                         "default_value": "Nombre",
                         "is_required": true
                     }
+                    
                 ],
                 "submit_label": "Enviar"
             }
