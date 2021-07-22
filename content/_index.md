@@ -99,8 +99,8 @@ sections:
         avatar: images/noun_Thermometer_4079928.png
         avatar_alt: Control de Temperatura
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Temperatura refrigerada controlada para la conservación de los
+          alimentos.
       - author: SOPORTE TÉCNICO INMEDIATO
         avatar: images/noun_Repair_1285380.png
         avatar_alt: Soporte técnico inmediato
