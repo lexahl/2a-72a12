@@ -83,7 +83,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Nuestras Máquinas
+      value: Máquinas Expendedoras
     - name: 'twitter:image'
       value: images/inicio_main-arte.png
       relativeUrl: true
