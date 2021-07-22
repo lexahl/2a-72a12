@@ -29,7 +29,7 @@
             },
             {
                 "label": "Contacto",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
