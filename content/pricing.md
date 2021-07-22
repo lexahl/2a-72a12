@@ -82,5 +82,9 @@ seo:
       value: >-
         Obtén una máquina expendedora en tus instalación hoy mismo. ¡Es muy
         sencillo!
+    - name: 'og:image'
+      value: images/inicio_main-arte.png
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
