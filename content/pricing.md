@@ -24,7 +24,7 @@ sections:
         highlight: false
         actions: []
       - title: 3. Disfruta
-        subtitle: Despreocpate y sólo disfruta los beneficios.
+        subtitle: Despreocúpate y sólo disfruta los beneficios.
         details: >+
           Una vez que tomes tu decisión, es sólo cuestión de agendar y planear
           la instalación gratuita y que disfrutes.
