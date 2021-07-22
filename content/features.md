@@ -61,13 +61,15 @@ sections:
         style: secondary
 seo:
   title: Features
-  description: This is the features page
+  description: >-
+    Contamos con la más alta tecnología en equipos para satisfacer todas tus
+    necesidades.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Nuestras Máquinas
       keyName: property
     - name: 'og:description'
       value: This is the features page
@@ -79,9 +81,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
-    - name: 'twitter:description'
-      value: This is the features page
+      value: Nuestras Máquinas
     - name: 'twitter:image'
       value: images/feature1.png
       relativeUrl: true
