@@ -15,7 +15,7 @@ sections:
           se agendará un cita para hacer una valoración y trabajar en una
           propuesta. 
         actions: []
-      - title: Decide
+      - title: 2. Decide
         subtitle: Nuestra misión es ayudarte
         details: >
           Con base en la valoración la propuesta incluirá el numero y tipo de
