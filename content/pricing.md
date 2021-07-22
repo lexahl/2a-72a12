@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Quiero Una Máquina Grátis
+      value: Máquina Grátis
       keyName: property
     - name: 'og:description'
       value: >-
