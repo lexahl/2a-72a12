@@ -103,6 +103,7 @@ sections:
     type: section_posts
     background: gray
     title: ¡Manejamos las mejores marcas!
+    description: test
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
