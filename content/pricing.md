@@ -86,5 +86,9 @@ seo:
       value: images/inicio_main-arte.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/inicio_main-arte.png
+      keyName: property
+      relativeUrl: true
 layout: landing
 ---
