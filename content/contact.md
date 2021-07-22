@@ -30,7 +30,9 @@ sections:
     submit_label: Enviar
 seo:
   title: Contacto
-  description: This is the contact page
+  description: >-
+    ¡Queremos ayudarte! Proporcíonanos tus datos y nos contactaremos contigo lo
+    más pronto posible.
   extra:
     - name: 'og:type'
       value: website
