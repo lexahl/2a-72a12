@@ -58,7 +58,7 @@
                 "title": "Acerca de Nosotros",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Qu",
                         "url": "/about",
                         "style": "link"
                     },
