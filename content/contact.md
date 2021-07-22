@@ -9,7 +9,8 @@ sections:
       ###### Nuestros datos:
 
 
-      Teléfono: (+52) 81-1965-5345 
+      Teléfono: (+52) 81-1965-5345
+
 
       Correo: anglara00@gmail.com
 
