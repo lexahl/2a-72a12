@@ -60,6 +60,23 @@
                 ]
             },
             {
+                "type": "footer_form",
+                "title": "Subscribe",
+                "content": "Stay up to date with our latest developments.",
+                "form_id": "contactForm",
+                "hide_labels": false,
+                "form_fields": [
+                    {
+                        "input_type": "email",
+                        "name": "email",
+                        "label": "Email",
+                        "default_value": "Enter email address",
+                        "is_required": true
+                    }
+                ],
+                "submit_label": "Subscribe"
+            },
+            {
                 "type": "footer_nav",
                 "title": "Community",
                 "nav_links": [
@@ -88,23 +105,6 @@
                         "icon_position": "left"
                     }
                 ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "contactForm",
-                "hide_labels": false,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Subscribe"
             }
         ],
         "has_nav": true,
