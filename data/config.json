@@ -99,7 +99,7 @@
                         "url": "https://github.com/",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "github",
+                        "icon": "arrow-right",
                         "icon_position": "left"
                     }
                 ]
