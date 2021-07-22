@@ -72,7 +72,9 @@ seo:
       value: Nuestras Máquinas
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: >-
+        Contamos con la más alta tecnología en equipos para satisfacer todas tus
+        necesidades.
       keyName: property
     - name: 'og:image'
       value: images/feature1.png
