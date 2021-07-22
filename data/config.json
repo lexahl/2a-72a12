@@ -98,7 +98,7 @@
             },
              {
                 "type": "footer_form",
-                "form_id": "contactForm",
+                "form_id": "contactoForm",
                 "hide_labels": false,
                 "form_fields": [
                     {
