@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Quiero Una Máquina Grátis
       keyName: property
     - name: 'og:description'
       value: This is the pricing page
