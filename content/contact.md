@@ -24,7 +24,7 @@ sections:
         label: Nombre
         is_required: true
       - input_type: email
-        name: email
+        name: Email
         label: Email
         is_required: true
     submit_label: Enviar
