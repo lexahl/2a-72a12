@@ -11,7 +11,7 @@ sections:
     form_id: contactForm
     form_fields:
       - input_type: text
-        name: name
+        name: Nombre
         label: Nombre
         is_required: true
       - input_type: email
