@@ -24,7 +24,7 @@ sections:
       total del cliente. 
     background: gray
     pricing_plans:
-      - price: lorem-ipsum
+      - price: VISIÓN
         details: >-
           ## Lorem ipsum
 
