@@ -108,7 +108,20 @@
                         "default_value": "Nombre",
                         "is_required": true
                     },
-
+                    {
+                        "input_type": "text",
+                        "name": "Contacto",
+                        "label": "Déjanos tus datos!",
+                        "default_value": "Nombre",
+                        "is_required": true
+                    },
+                    {
+                        "input_type": "text",
+                        "name": "Contacto",
+                        "label": "Déjanos tus datos!",
+                        "default_value": "Nombre",
+                        "is_required": true
+                    }
                 ],
                 "submit_label": "Enviar"
             }
