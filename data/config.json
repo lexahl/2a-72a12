@@ -40,6 +40,27 @@
             },
             {
                 "type": "footer_nav",
+                "title": "Acerca de Nosotros",
+                "nav_links": [
+                    {
+                        "label": "Quiero una Máquina",
+                        "url": "/pricing",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Nuestras Máquinas",
+                        "url": "/features",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Contacto",
+                        "url": "/contact",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
                 "title": "Redes Sociales",
                 "nav_links": [
                     {
@@ -74,27 +95,6 @@
                     }
                 ],
                 "submit_label": "Enviar"
-            },
-            {
-                "type": "footer_nav",
-                "title": "Acerca de Nosotros",
-                "nav_links": [
-                    {
-                        "label": "Quiero una Máquina",
-                        "url": "/pricing",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Nuestras Máquinas",
-                        "url": "/features",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contacto",
-                        "url": "/contact",
-                        "style": "link"
-                    }
-                ]
             }
         ],
         "has_nav": true,
