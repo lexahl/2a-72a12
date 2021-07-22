@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nuestras Máquinas
+      value: Maquinas Expendedoras
       keyName: property
     - name: 'og:description'
       value: >-
