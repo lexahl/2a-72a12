@@ -34,9 +34,6 @@ sections:
         options:
           - Estoy interesado en una máquina expendedora
           - Otro...
-      - input_type: textarea
-        name: message
-        label: Mensaje
     submit_label: Enviar
 seo:
   title: Contacto
