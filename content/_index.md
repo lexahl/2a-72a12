@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/inicio_main-arte.png
     image_alt: App preview
-    title: Instala una máquina para tu negocio GRÁTIS!
+    title: Instala una máquina para tu negocio ¡GRÁTIS!
     content: >
       ¡Conseguir una máquina expendedora para tus instalaciones, nunca fue tan
       fácil! Solamente tienes que contactarnos, y nosotros nos encargamos de lo
