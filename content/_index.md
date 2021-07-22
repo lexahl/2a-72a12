@@ -14,6 +14,46 @@ sections:
       - label: Contacto
         url: /features
         style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans:
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
+        type: pricing_plan
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
+        type: pricing_plan
+    type: section_pricing
   - section_id: Ventajas
     type: section_features
     background: gray
@@ -104,46 +144,6 @@ sections:
     type: section_posts
     background: gray
     title: ¡Algunas de las marcas que manejamos!
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    pricing_plans:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        highlight: false
-        actions: []
-        type: pricing_plan
-    type: section_pricing
 seo:
   title: 2A Vending Machines
   description: >-
