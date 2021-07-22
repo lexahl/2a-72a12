@@ -22,6 +22,7 @@
       <div class="form-row">
         {{ $include_dict := dict "field" $field "section" $section }}
         {{ partial "form_field.html" $include_dict }}
+        <form name="contact" method="POST" data-netlify="true">
       </div>
       {{ end }}
       <div class="form-row form-submit">
