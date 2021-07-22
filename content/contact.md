@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Contacto
     - name: 'twitter:description'
       value: >-
         ¡Queremos ayudarte! Proporciónanos tus datos y nos contactaremos contigo
