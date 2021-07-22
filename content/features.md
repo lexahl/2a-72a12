@@ -7,7 +7,7 @@ sections:
     image: images/5icons.png
     image_alt: App preview on a phone and tablet
     title: Servicios
-    content: >+
+    content: >
       Contamos con la más alta tecnología en equipos para satisfacer todas tus
       necesidades.
 
@@ -15,25 +15,16 @@ sections:
       ##### Instalación de Máquinas
 
 
-
-
       ##### Venta/Renta de Máquinas
-
-
 
 
       ##### Venta de Refacciones
 
 
-
-
-      ##### Servicio de Técnico y Mantenimiento
-
-
+      ##### Servicio Técnico y Mantenimiento
 
 
       ##### Movimientos y Traslados de Máquinas
-
     actions: []
   - section_id: call-to-action
     type: section_cta
