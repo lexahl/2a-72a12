@@ -14,6 +14,39 @@ sections:
       - label: Contacto
         url: /features
         style: primary
+  - section_id: Ventajas
+    type: section_features
+    background: gray
+    title: Ventajas
+    subtitle: >-
+      Al contar con el servicio de 2A Vending, le estas dando a tus
+      colaboradores un servicio confiable y de calidad.
+    features:
+      - title: Selección de productos personalizable
+        image_alt: App preview on a phone and tablet
+        content: >
+          Aceptamos todas sugerencias y comentarios. Contamos con una amplia
+          variedad de productos saludables, snacks, y bebidas porque nuestra
+          misión es proveerte con una experiencia que es completamente
+          satisfactoria para las necesidades de tus clientes y empleados.
+        actions: []
+        image: images/selección.png
+      - title: El mejor servicio y atención
+        image: images/servicio.png
+        image_alt: App users welcoming a new member
+        content: >
+          2A Vending ofrece un servicio de atención único, que incluye la
+          instalación de máquinas, surtido y abastecimiento de los productos, y
+          servicio técnico especializado. ¡Completamente gratuito!
+        actions: []
+      - image: images/instalación.png
+        image_alt: App user profile preview
+        content: >
+          Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
+          para que te demos la propuesta más adecuada para ti y programar la
+          instalación gratis de tus maquinas vending.
+        actions: []
+        title: Instalación gratuita
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -54,39 +87,6 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-  - section_id: Ventajas
-    type: section_features
-    background: gray
-    title: Ventajas
-    subtitle: >-
-      Al contar con el servicio de 2A Vending, le estas dando a tus
-      colaboradores un servicio confiable y de calidad.
-    features:
-      - title: Selección de productos personalizable
-        image_alt: App preview on a phone and tablet
-        content: >
-          Aceptamos todas sugerencias y comentarios. Contamos con una amplia
-          variedad de productos saludables, snacks, y bebidas porque nuestra
-          misión es proveerte con una experiencia que es completamente
-          satisfactoria para las necesidades de tus clientes y empleados.
-        actions: []
-        image: images/selección.png
-      - title: El mejor servicio y atención
-        image: images/servicio.png
-        image_alt: App users welcoming a new member
-        content: >
-          2A Vending ofrece un servicio de atención único, que incluye la
-          instalación de máquinas, surtido y abastecimiento de los productos, y
-          servicio técnico especializado. ¡Completamente gratuito!
-        actions: []
-      - image: images/instalación.png
-        image_alt: App user profile preview
-        content: >
-          Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
-          para que te demos la propuesta más adecuada para ti y programar la
-          instalación gratis de tus maquinas vending.
-        actions: []
-        title: Instalación gratuita
   - section_id: Nuestros Equipos
     type: section_reviews
     background: white
