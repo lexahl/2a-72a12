@@ -28,17 +28,13 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - details: >-
-          ## Lorem ipsum
+      - details: >
+          ## MISIÓN&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ##### Dar soluciones integrales a las necesidades&#xA;de cada uno de
+          nuestros clientes, buscando la satisfacción total, por medio de&#xA;un
+          servicio de excelencia.
         highlight: false
         actions: []
         type: pricing_plan
