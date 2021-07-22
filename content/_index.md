@@ -104,6 +104,12 @@ sections:
     type: section_posts
     background: gray
     title: ¡Algunas de las marcas que manejamos!
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   title: 2A Vending Machines
   description: >-
