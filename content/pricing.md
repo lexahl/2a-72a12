@@ -21,7 +21,7 @@ sections:
           Con base en la valoración la propuesta incluirá el numero y tipo de
           máquinas más optimo para tus necesidades y características.  Con está
           información es sólo cuestión de que tomes tu decisión.
-        highlight: true
+        highlight: false
         actions: []
       - title: Disfruta
         subtitle: Despreocupate y sólo disfruta los beneficios
