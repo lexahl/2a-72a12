@@ -28,6 +28,9 @@ sections:
       ##### Control de Temperatura
 
 
+      Máquinas refrigeradas para bebidas heladas y conservación de alimentos.
+
+
       ##### Soporte Técnico Inmediato
 
 
