@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/inicio_main-arte.png
     image_alt: App preview
     title: ¡Consigue una máquina para tu negocio GRÁTIS!
     content: >
