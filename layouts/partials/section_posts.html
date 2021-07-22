@@ -6,7 +6,7 @@
     {{ end }}
     {{ if $section.subtitle }}
     <p class="block-subtitle">
-      test
+      {{ $section.subtitle | safeHTML }}
     </p>
     {{ end }}
   </div>
