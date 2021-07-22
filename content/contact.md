@@ -27,13 +27,6 @@ sections:
         name: email
         label: Email
         is_required: true
-      - input_type: select
-        name: Nombre
-        label: Asunto
-        default_value: Seleccione una opción
-        options:
-          - Estoy interesado en una máquina expendedora
-          - Otro...
     submit_label: Enviar
 seo:
   title: Contacto
