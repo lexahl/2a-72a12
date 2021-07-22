@@ -60,7 +60,7 @@ sections:
         url: '#'
         style: secondary
 seo:
-  title: Features
+  title: Maquinas Expendedoras
   description: >-
     Contamos con la más alta tecnología en equipos para satisfacer todas tus
     necesidades.
