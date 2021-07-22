@@ -122,7 +122,7 @@ seo:
         máquinas expendedoras en Monterrey, Nuevo Léon.
       keyName: property
     - name: 'og:image'
-      value: images/inicio_main-arte.png
+      value: images/seo_main-arte.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
