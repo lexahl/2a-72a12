@@ -65,7 +65,7 @@ sections:
         content: >
           2A Vending ofrece un servicio de atención único, que incluye la
           instalación de máquinas, surtido y abastecimiento de los productos, y
-          servicio técnico especializado. ¡Completamente gratuito!
+          servicio técnico especializado. 
         actions: []
       - image: images/instalación.png
         image_alt: App user profile preview
