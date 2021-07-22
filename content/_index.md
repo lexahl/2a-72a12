@@ -114,7 +114,7 @@ seo:
       value: 2A Vending Machines
       keyName: property
     - name: 'og:description'
-      value: 2A Vending Machines, Máquinas Expendedoras, Monterrey, Nuevo Léon.
+      value: 2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras en Monterrey, Nuevo Léon.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
