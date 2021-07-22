@@ -29,12 +29,15 @@ sections:
         actions: []
         type: pricing_plan
       - details: >
-          ## MISIÓN&#xA;
+          ## Misión&#xA;
 
 
-          ##### Dar soluciones integrales a las necesidades&#xA;de cada uno de
-          nuestros clientes, buscando la satisfacción total, por medio de&#xA;un
-          servicio de excelencia.
+          Dar soluciones integrales a las necesidades
+
+          de cada uno de nuestros clientes, buscando la satisfacción total, por
+          medio de
+
+          un servicio de excelencia.
         highlight: false
         actions: []
         type: pricing_plan
