@@ -38,7 +38,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contacto
       keyName: property
     - name: 'og:description'
       value: >-
