@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contacto
     content: >
-      ¡Queremos ayudarte! Proporcionanos tus datos y nos contactaremos contigo
+      ¡Queremos ayudarte! Proporcíonanos tus datos y nos contactaremos contigo
       lo más pronto posible.
     form_id: contactForm
     form_fields:
