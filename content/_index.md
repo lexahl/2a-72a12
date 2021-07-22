@@ -30,7 +30,7 @@ sections:
           misión es proveerte con una experiencia que es completamente
           satisfactoria para las necesidades de tus clientes y empleados.
         actions: []
-        image: images/feature1.png
+        image: images/selección.png
       - title: El mejor servicio y atención
         image: images/feature2.png
         image_alt: App users welcoming a new member
