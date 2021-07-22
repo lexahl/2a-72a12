@@ -3,7 +3,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/rainy-pineapple.jpg",
+        "logo_img": "images/5.png",
         "logo_img_alt": "2A Industrial Supply",
         "has_nav": true,
         "nav_links": [
@@ -38,10 +38,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/1 copy.png",
+                "image": "images/4.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras con base en Monterrey, Nuevo Léon. \n\n\n\n"
             },
             {
                 "type": "footer_nav",
@@ -114,7 +114,7 @@
         ],
         "has_nav": true,
         "nav_links": [],
-        "content": "&copy; 2A Industrial Supply, 2021."
+        "content": "&copy; Grupo 2A, 2021."
     },
     "domain": "https://vending2a.netlify.app"
 }

@@ -38,26 +38,14 @@ sections:
           2A Vending ofrece un servicio de atención único, que incluye la
           instalación de máquinas, surtido y abastecimiento de los productos, y
           servicio técnico especializado. ¡Completamente gratuito!
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - image: images/feature3.png
         image_alt: App user profile preview
         content: >
           Contáctanos, y sólo es cuestión de que nos cuentes tus necesidades
           para que te demos la propuesta más adecuada para ti y programar la
           instalación gratis de tus maquinas vending.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         title: Instalación gratuita
   - section_id: Nuestros Equipos
     type: section_reviews
@@ -114,7 +102,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: ¡Manejamos las mejores marcas!
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
