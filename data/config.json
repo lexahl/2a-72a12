@@ -39,6 +39,28 @@
                 "content": "2A Vending Machines es una compañia de Grupo 2A especializada en máquinas expendedoras con base en Monterrey, Nuevo Léon. \n\n\n\n"
             },
             {
+                "type": "footer_nav",
+                "title": "Redes Sociales",
+                "nav_links": [
+                    {
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/company/vending2a/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "linkedin",
+                        "icon_position": "left"
+                    },
+                    {
+                        "label": "Whatsapp",
+                        "url": "https://github.com/",
+                        "style": "link",
+                        "has_icon": true,
+                        "icon": "facebook",
+                        "icon_position": "left"
+                    }
+                ]
+            },
+            {
                 "type": "footer_form",
                 "form_id": "contactForm",
                 "hide_labels": false,
@@ -71,28 +93,6 @@
                         "label": "Contacto",
                         "url": "/contact",
                         "style": "link"
-                    }
-                ]
-            },
-            {
-                "type": "footer_nav",
-                "title": "Redes Sociales",
-                "nav_links": [
-                    {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/company/vending2a/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "Whatsapp",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "facebook",
-                        "icon_position": "left"
                     }
                 ]
             }
