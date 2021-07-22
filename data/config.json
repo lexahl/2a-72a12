@@ -59,7 +59,7 @@
                 "nav_links": [
                     {
                         "label": "Quiero una Máquina",
-                        "url": "/about",
+                        "url": "/pricing",
                         "style": "link"
                     },
                     {
