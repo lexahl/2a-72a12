@@ -1,10 +1,10 @@
 {
-    "title": "Azimuth",
+    "title": "2A Vending Machines",
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
         "logo_img": "images/5.png",
-        "logo_img_alt": "2A Industrial Supply",
+        "logo_img_alt": "2A Vending Machines",
         "has_nav": true,
         "nav_links": [
             {
@@ -29,7 +29,7 @@
             },
             {
                 "label": "Contacto",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
