@@ -29,7 +29,6 @@ sections:
         actions: []
         type: pricing_plan
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
