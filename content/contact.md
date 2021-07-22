@@ -33,7 +33,7 @@ sections:
         default_value: Seleccione una opción
         options:
           - Estoy interesado en una máquina expendedora
-          - lorem-ipsum
+          - Otros...
       - input_type: textarea
         name: message
         label: Mensaje
