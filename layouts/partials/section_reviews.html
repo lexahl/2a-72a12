@@ -16,6 +16,7 @@
       {{ range $review := $section.reviews }}
       <blockquote class="cell review">
         <div class="card">
+        
           <p class="review-text">{{ $review.content | safeHTML }}</p>
           <footer class="review-footer">
             {{ if $review.avatar }}
