@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/inicio_main-arte.png
+    image: images/5icons.png
     image_alt: App preview on a phone and tablet
     title: Servicios
     content: >+
