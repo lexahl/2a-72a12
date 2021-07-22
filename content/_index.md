@@ -102,7 +102,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: ¡Manejamos las mejores marcas!
+    title: ¡Algunas de las marcas que manejamos!
 seo:
   title: 2A Vending Machines
   description: >-
