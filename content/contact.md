@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 sections:
   - section_id: contact
     type: section_contact
